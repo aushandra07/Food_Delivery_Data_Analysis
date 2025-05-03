@@ -1,32 +1,35 @@
 # Food_Delivery_Data_Analysis
-This project simulates how a Data Analyst at a Food Delivery Company would support cross-functional teams by building targeted SQL queries to uncover customer behavior patterns, measure campaign performance, and support decision-making for growth, retention, and marketing strategies.
-
-Below are the key use cases addressed in this project:
-
+This project simulates how a Data Analyst at a Food Delivery Company would support cross-functional teams by building targeted SQL queries to uncover customer behavior patterns, measure campaign performance, and support decision-making for growth, retention, and marketing strategies. <br>
+<br>
+Below are the key use cases addressed in this project: 
+<br>
 1. Top Outlets by Cuisine (No LIMIT)
+<br>
 Purpose: Rank outlets by cuisine type.
-Use Case: Find top 3 outlets per cuisine without using LIMIT or TOP.
+<br>
+Use Case: Find top 3 outlets per cuisine without using LIMIT or TOP.<br>
 
-2. Daily New Customer Trend
+3. Daily New Customer Trend <br>
 Purpose: Track daily customer acquisition.
-Use Case: Measure how many new users joined each day since launch.
+<br>
+Use Case: Measure how many new users joined each day since launch. <br>
 
-3. Single-Order Users (Jan 2025)
-Purpose: Identify one-time users.
-Use Case: Find customers who only ordered once in January and churned.
+4. Single-Order Users (Jan 2025) <br>
+Purpose: Identify one-time users. <br>
+Use Case: Find customers who only ordered once in January and churned. <br>
 
-4. Dormant Promo Users
-Purpose: Spot inactive promo-acquired users.
-Use Case: List users acquired a month ago via promo with no recent orders.
+5. Dormant Promo Users <br>
+Purpose: Spot inactive promo-acquired users. <br>
+Use Case: List users acquired a month ago via promo with no recent orders. <br>
 
-5. Milestone Order Triggers
-Purpose: Support personalized messaging.
-Use Case: Identify users who placed their 3rd, 6th, 9th (etc.) order.
+6. Milestone Order Triggers <br>
+Purpose: Support personalized messaging. <br>
+Use Case: Identify users who placed their 3rd, 6th, 9th (etc.) order. <br>
 
-6. Promo-Only Loyal Users
-Purpose: Analyze promo-dependent behavior.
-Use Case: Find users with multiple orders all using promo codes.
+7. Promo-Only Loyal Users <br>
+Purpose: Analyze promo-dependent behavior. <br>
+Use Case: Find users with multiple orders all using promo codes. <br>
 
-7. Organic Acquisitions (Jan 2025)
-Purpose: Measure organic user growth.
-Use Case: Calculate % of new Jan 2025 users who ordered without promo.
+8. Organic Acquisitions (Jan 2025) <br>
+Purpose: Measure organic user growth. <br>
+Use Case: Calculate % of new Jan 2025 users who ordered without promo. <br>
